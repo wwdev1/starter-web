@@ -17,3 +17,8 @@ Sample website with plenty of files for demos
 ## This section will appear in remote repo
 
 ## This section will appear in local repo
+
+## This section will appear in changes to Git index
+
+## This section will appear in changes to working dir
+
