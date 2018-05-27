@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## Still more
 
 ## This section will appear in remote repo
+
+## This section will appear in local repo
