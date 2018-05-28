@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Intro
+How to fix
 
 ## Purpose - second level heading
 
