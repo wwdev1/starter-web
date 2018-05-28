@@ -22,3 +22,6 @@ Sample website with plenty of files for demos
 
 ## This section will appear in changes to working dir
 
+### Copyright
+notice
+
