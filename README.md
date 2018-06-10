@@ -1,6 +1,7 @@
 # Starter Web Repo - first level heading
 
 This repository is for showing how Git and GitHub work. Adding a line.
+More changes from myfeature branch
 
 ## Intro
 How to fix
