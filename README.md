@@ -1,6 +1,6 @@
 # Starter Web Repo - first level heading
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding a line.
 
 ## Intro
 How to fix
@@ -23,6 +23,6 @@ Sample website with plenty of files for demos
 
 ## This section will appear in changes to working dir
 
-### Copyright
+### Copyright 2018
 notice
 
